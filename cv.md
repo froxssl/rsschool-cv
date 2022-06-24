@@ -8,3 +8,12 @@
 - Phone: +7(909)355-84-26
 - Email: <inv1sy@ya.ru>
 - GitHub: [@froxssl](https://github.com/froxssl)
+
+## Skills
+
+- HTML
+- CSS (SASS/SCSS, BEM)
+- JavaScript (Basic)
+- Git
+- Figma
+- Adobe Photoshop
