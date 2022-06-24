@@ -17,3 +17,13 @@
 - Git
 - Figma
 - Adobe Photoshop
+
+## Code Example
+
+```js
+// Simple sum function in JavaScript
+
+function sum(a, b) {
+  return a + b;
+}
+```
